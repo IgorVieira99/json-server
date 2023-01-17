@@ -1,0 +1,34 @@
+{
+  "Shape":[
+      {
+          "básico": 50.00,
+          "maple": 200.00,
+          "marfim": 120.00,
+          "fiber glass": 150.00
+      }
+  ],
+  "Truck":[
+      {
+          "royal": 120.00,
+          "venture": 200.00,
+          "crail": 160.00,
+          "independent": 210.00
+      }
+  ],
+  "Lixa":[
+      {
+          "básica": 10.00,
+          "nostalgic 90's": 25.00,
+          "mobgrip": 30.00,  
+          "thrasher": 60.00
+      }
+  ],
+  "Rolamento":[
+      {   
+          "abec":8.00,
+          "spitfire":90.00,
+          "red bones": 110.00,
+          "moska":100.00
+      }
+  ]
+}
